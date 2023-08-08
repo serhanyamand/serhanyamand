@@ -1,3 +1,4 @@
 - 👋 Selamlar dostlar ben Mitszy
 - Kod yazmayı seven bir insan olarak yazdığım kodları burada paylaşmaktayım(takipte kalın!)
-- [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=mitszy&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mitszy&show_icons=true&theme=gradient)
+

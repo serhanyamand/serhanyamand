@@ -60,7 +60,7 @@
   <tr> 
     <td colspan="3">
       <ul>
-        <li><b>Discord</b> <b><a href="https://discord.gg/XK7fpk4DkG">Beast Code</a></b> - Beast Code Sunucu Sahibi,</li>
+        <li><b>Discord</b> <b><a href="https://discord.gg/XK7fpk4DkG">Beast Code</a></b> - Sunucu Sahibi,</li>
        <li><b>Discord</b> Beast Uptime Bot Sahibi,</li>
         <li><b>Discord</b> Beast Abone Rol Bot Sahibi,</li>
       </ul>
@@ -87,8 +87,8 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><a href="https://youtube.com/@mitszytube"><b>YouTube</b></a> Youtube İçerik Ve Topluluk Yöneticisi - Sahibi,</li>
-        <li><a href="https://discord.gg/XK7fpk4DkG"><b>Discord</b></a> İçerik Ve Sunucu Yönetimi - Sahibi,</li>
+        <li><a href="https://youtube.com/@mitszytube"><b>YouTube</b></a> İçerik Üreticisi</li>
+        <li><a href="https://discord.gg/XK7fpk4DkG"><b>Discord</b></a> Sunucu Sahibi,</li>
         <li><b>GitHub</b> İçerik Üreticisi,</li>
         <li><b>Glitch</b> İçerik Üreticisi,</li>
       </ul> 

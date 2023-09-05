@@ -20,7 +20,7 @@
   <table style="margin: 0 auto;">
     <tr> <!--Skills Table Name-->
       <th style="text-align: center;">🌲 İyi</th>
-      <th style="text-align: center;">🪴 Orta</th>
+      <th style="text-align: center;">🍀 Orta</th>
       <th style="text-align: center;">🌱 Başlangıç</th>
     </tr>
     <tr> 

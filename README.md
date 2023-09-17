@@ -120,7 +120,7 @@
   <a href="https://discord.gg/XK7fpk4DkG"> <!--Discord Link-->
     <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
   </a> <!--Made By Musarda.-->
-  <a href="https://www.glitch.com/@mitszy"> <!--Glitch Link-->
+  <a href="https://www.glitch.com/@serhanyamand"> <!--Glitch Link-->
     <img src="https://img.shields.io/badge/-Glitch-2800ff?style=quare&labelColor=2800ff&logo=Glitch&logoColor=white&link=link" alt="Glitch Badge">
   </a>
   <a href="https://www.github.com/serhanyamand"> <!--GitHub Link-->

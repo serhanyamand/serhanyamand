@@ -7,10 +7,10 @@
   <a href="https://discord.gg/XK7fpk4DkG"> <!--Discord Link-->
     <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
   </a>
-  <a href="https://www.glitch.com/@mitszy"> <!--Glitch Link-->
+  <a href="https://www.glitch.com/@serhanyamand"> <!--Glitch Link-->
     <img src="https://img.shields.io/badge/-Glitch-2800ff?style=quare&labelColor=2800ff&logo=Glitch&logoColor=white&link=link" alt="Glitch Badge">
   </a>
-  <a href="https://www.github.com/mitszy"> <!--GitHub Link-->
+  <a href="https://www.github.com/serhanyamand"> <!--GitHub Link-->
     <img src="https://img.shields.io/badge/-GitHub-000?style=quare&labelColor=000&logo=GitHub&logoColor=white&link=link" alt="Github Badge">
   </a>
   <br> 
@@ -25,16 +25,16 @@
     </tr>
     <tr> 
       <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-HTML/CSS-FF5733?logo=html5&logoColor=white" alt="HTML/CSS"></td>  <!--HTML-->
-      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript"></td> <!--JavaScript-->
+      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"></td> <!--C++-->
       <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java"></td>
     </tr> <!--Java-->
     <tr> 
-      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"></td> <!--C++-->
-      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"></td><!--Python-->
+      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript"></td> <!--JavaScript-->
+      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C"></td> <!--C--->
       <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP"></td>
     </tr> <!--PHP-->
     <tr>
-      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white" alt="C"></td> <!--C--->
+      <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python"></td><!--Python-->
       <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" alt="C#"></td><!--C#-->
       <td style="text-align: center;" align="center"><img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white" alt="Ruby"></td><!--Ruby-->
     </tr>
@@ -50,7 +50,7 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li>Mitszy <a href="https://youtube.com/@mitszytube"><b>Kanalının</b></a> Sahibi</li> 
+        <li><a href="https://youtube.com/@mitszytube"><b>Mitszy</b></a> Kanalının Sahibi</li> 
       </ul>
     </td>
   </tr>
@@ -72,7 +72,8 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><b>Beast Code</b> Websitesi Sahibi</li>
+        <li><b><a href="http://beastcode.tr.ht">Beast Code</a></b> Websitesi Sahibi</li>
+        <li><b><a href="http://beastprofile.tr.ht">Beast Profile</a></b> Websitesi Sahibi</li>
       </ul> 
     </td>
   </tr>
@@ -89,8 +90,8 @@
       <ul>
         <li><a href="https://youtube.com/@mitszytube"><b>YouTube</b></a> İçerik Üreticisi</li>
         <li><a href="https://discord.gg/XK7fpk4DkG"><b>Discord</b></a> Sunucu Sahibi,</li>
-        <li><b>GitHub</b> İçerik Üreticisi,</li>
-        <li><b>Glitch</b> İçerik Üreticisi,</li>
+        <li><a href="https://github.com/serhanyamand"><b>Github</b></a> İçerik Üreticisi</li>
+        <li><a href="https://glitch.com/@serhanyamand"><b>Glitch</b></a> İçerik Üreticisi</li>
       </ul> 
     </td>
   </tr>

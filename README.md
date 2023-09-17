@@ -123,7 +123,7 @@
   <a href="https://www.glitch.com/@mitszy"> <!--Glitch Link-->
     <img src="https://img.shields.io/badge/-Glitch-2800ff?style=quare&labelColor=2800ff&logo=Glitch&logoColor=white&link=link" alt="Glitch Badge">
   </a>
-  <a href="https://www.github.com/mitszy"> <!--GitHub Link-->
+  <a href="https://www.github.com/serhanyamand"> <!--GitHub Link-->
     <img src="https://img.shields.io/badge/-GitHub-000?style=quare&labelColor=000&logo=GitHub&logoColor=white&link=link" alt="Github Badge">
 </div>
 <!--Made in Musarda and it is my bro-->

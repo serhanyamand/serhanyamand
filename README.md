@@ -118,7 +118,7 @@
   <details> <!--Secret Menu-->
     <summary>Sosyal Bağlantıları Göster</summary>
     <br>
-  <a href="https://discord.gg/XK7fpk4DkG"> <!--Discord Link-->
+  <a href="https://discord.gg/dR7E38z3hx"> <!--Discord Link-->
     <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
   </a> <!--Made By Musarda.-->
   <a href="https://www.glitch.com/@serhanyamand"> <!--Glitch Link-->

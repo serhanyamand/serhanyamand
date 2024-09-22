@@ -50,7 +50,7 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><a href="https://youtube.com/@mitszytube"><b>Mitszy</b></a> Kanalının Sahibi</li> 
+        <li><a href="https://youtube.com/@serhanyamand"><b>Serhan Yaman Durmuş</b></a> Kanalının Sahibi</li> 
       </ul>
     </td>
   </tr>
@@ -60,7 +60,7 @@
   <tr> 
     <td colspan="3">
       <ul>
-        <li><b>Discord</b> <b><a href="https://discord.gg/XK7fpk4DkG">Beast Code</a></b> - Sunucu Sahibi,</li>
+        <li><b>Discord</b> <b><a href="https://discord.gg/dR7E38z3hx">YamanShop</a></b> - Sunucu Sahibi,</li>
        <li><b>Discord</b> Beast Uptime Bot Sahibi,</li>
         <li><b>Discord</b> Beast Abone Rol Bot Sahibi,</li>
       </ul>

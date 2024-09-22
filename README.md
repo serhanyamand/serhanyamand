@@ -89,7 +89,7 @@
     <td colspan="3">
       <ul>
         <li><a href="https://youtube.com/@mitszytube"><b>YouTube</b></a> İçerik Üreticisi</li>
-        <li><a href="https://discord.gg/XK7fpk4DkG"><b>Discord</b></a> Sunucu Sahibi,</li>
+        <li><a href="https://discord.gg/dR7E38z3hx"><b>Discord</b></a> Sunucu Sahibi,</li>
         <li><a href="https://github.com/serhanyamand"><b>Github</b></a> İçerik Üreticisi</li>
         <li><a href="https://glitch.com/@serhanyamand"><b>Glitch</b></a> İçerik Üreticisi</li>
       </ul> 

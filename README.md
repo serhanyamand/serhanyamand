@@ -61,8 +61,6 @@
     <td colspan="3">
       <ul>
         <li><b>Discord</b> <b><a href="https://discord.gg/dR7E38z3hx">YamanShop</a></b> - Sunucu Sahibi,</li>
-       <li><b>Discord</b> Beast Uptime Bot Sahibi,</li>
-        <li><b>Discord</b> Beast Abone Rol Bot Sahibi,</li>
       </ul>
     </td>
   </tr>
@@ -72,8 +70,7 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><b><a href="http://beastcode.tr.ht">Beast Code</a></b> Websitesi Sahibi</li>
-        <li><b><a href="http://beastprofile.tr.ht">Beast Profile</a></b> Websitesi Sahibi</li>
+        <li><b><a href="https://simseksmm.com">Şimşek Smm</a></b> Websitesi Sahibi</li>
       </ul> 
     </td>
   </tr>
@@ -88,7 +85,7 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><a href="https://youtube.com/@mitszytube"><b>YouTube</b></a> İçerik Üreticisi</li>
+        <li><a href="https://youtube.com/@serhanyamand"><b>YouTube</b></a> İçerik Üreticisi</li>
         <li><a href="https://discord.gg/dR7E38z3hx"><b>Discord</b></a> Sunucu Sahibi,</li>
         <li><a href="https://github.com/serhanyamand"><b>Github</b></a> İçerik Üreticisi</li>
         <li><a href="https://glitch.com/@serhanyamand"><b>Glitch</b></a> İçerik Üreticisi</li>

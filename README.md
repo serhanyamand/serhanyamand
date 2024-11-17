@@ -60,7 +60,7 @@
   <tr> 
     <td colspan="3">
       <ul>
-        <li><b>Discord</b> <b><a href="https://discord.gg/dR7E38z3hx">YamanShop</a></b> - Sunucu Sahibi,</li>
+        <li><b>Discord</b> <b><a href="https://discord.gg/dR7E38z3hx">YamanShop</a></b> - Sunucu Sahibi</li>
       </ul>
     </td>
   </tr>

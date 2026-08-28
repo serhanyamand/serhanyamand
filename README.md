@@ -60,7 +60,7 @@
   <tr> 
     <td colspan="3">
       <ul>
-        <li><b>Discord</b> <b><a href="https://discord.gg/dR7E38z3hx">YamanShop</a></b> - Sunucu Sahibi</li>
+        <li><b>Yapım Aşamasında</b> <b><a href="https://discord.gg/"></a></b> - Yapım Aşamasında</li>
       </ul>
     </td>
   </tr>
@@ -70,7 +70,7 @@
   <tr>
     <td colspan="3">
       <ul>
-        <li><b><a href="https://simseksmm.com">Şimşek Smm</a></b> Websitesi Sahibi</li>
+        <li><b><a href="">Birden fazla </a></b> Websitesi Sahibi</li>
       </ul> 
     </td>
   </tr>
@@ -86,7 +86,6 @@
     <td colspan="3">
       <ul>
         <li><a href="https://youtube.com/@serhanyamand"><b>YouTube</b></a> İçerik Üreticisi</li>
-        <li><a href="https://discord.gg/dR7E38z3hx"><b>Discord</b></a> Sunucu Sahibi,</li>
         <li><a href="https://github.com/serhanyamand"><b>Github</b></a> İçerik Üreticisi</li>
         <li><a href="https://glitch.com/@serhanyamand"><b>Glitch</b></a> İçerik Üreticisi</li>
       </ul> 
@@ -115,7 +114,7 @@
   <details> <!--Secret Menu-->
     <summary>Sosyal Bağlantıları Göster</summary>
     <br>
-  <a href="https://discord.gg/dR7E38z3hx"> <!--Discord Link-->
+  <a href="https://discord.gg/"> <!--Discord Link-->
     <img src="https://img.shields.io/badge/-Discord-738adb?style=quare&labelColor=blurple&logo=Discord&logoColor=white&link=link" alt="Discord Badge">
   </a> <!--Made By Musarda.-->
   <a href="https://www.glitch.com/@serhanyamand"> <!--Glitch Link-->
@@ -124,4 +123,4 @@
   <a href="https://www.github.com/serhanyamand"> <!--GitHub Link-->
     <img src="https://img.shields.io/badge/-GitHub-000?style=quare&labelColor=000&logo=GitHub&logoColor=white&link=link" alt="Github Badge">
 </div>
-<!--Made in Musarda and it is my bro-->
+<!--Made by Musarda and it is my bro-->

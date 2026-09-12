@@ -15,7 +15,7 @@
   </a>
   <br> 
   <!------------SKİLLS------------>
-<div style="text-align: center;" align="center">
+<! <div style="text-align: center;" align="center">
   <h1>🛠️ Yazılım Bilgim</h1>
   <table style="margin: 0 auto;">
     <tr> <!--Skills Table Name-->
@@ -108,7 +108,7 @@
 </div>
 
 #
-
+>
 <br>
 <div style="text-align: center;" align="center">
   <details> <!--Secret Menu-->

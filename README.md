@@ -7,7 +7,7 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
 <!-- <img src="https://gpvc.arturio.dev/serhanyamand" alt="Profile views" align='right'/> <a href="https://github.com/serhanyamand/"> </a> 
 <br/> -->
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by SerhanYaman - https://github.com/serhanyamand/readme-typing-svg -->
 </p>
 <p align="center">
   <a href="linkedin.com/in/serhanyamand"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E8F700&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" /></a>
@@ -25,7 +25,7 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
 > root :~ whoami
 ```
 ```python
-> I am a Data Scientist and a ML | DL Developer 💻
+> I am a Computer Engineering Student | Student Developer 💻
 > I am studying computer engineering at MAKÜ.📚 - Burdur,Turkey
 > I have a strong interest in Data Science and AI 📝
 > Learning about web and mobile application development 👨‍💻 
@@ -56,7 +56,7 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
      
  
 
-#### Lanuages 
+#### Languages 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -90,12 +90,12 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
 
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=adilrahman&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=serhanyamand&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
  </br>
   </br>
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=adilrahman&theme=darcula&hide_border=true&background=FFFFFF00">
+ <img src ="https://github-readme-streak-stats.herokuapp.com?user=serhanyamand&theme=darcula&hide_border=true&background=FFFFFF00">
  </br> </br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=adilrahman&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=serhanyamand&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&hide=jupyter%20notebook,tex,css">
 </p>
      
   </td>
@@ -103,7 +103,7 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
 </table>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=adilrahman&theme=react-dark&hide_border=true&area=true)
+
 
 
 <br>
@@ -113,8 +113,11 @@ Hi, I'm <a href="https://github.com/serhanyamand"> Serhan Yaman Durmuş </a>
 
 <p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
- <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/"  >connect with me</a><br><br>
-<a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/___i_am_iron_man/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/bitbyte_1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DEV.to"></a> <a href="https://medium.com/@adilrahman_1337" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="DEV.to"></a>
+ <a href="https://www.linkedin.com/in/serhanyamand/"  >connect with me</a><br><br>
+<a href="https://www.linkedin.com/in/serhanyamand/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.instagram.com/serhanyamand/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+ <a href="https://x.com/serhanyamand" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"></a> 
+ <a href="https://medium.com/@serhanyamand" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 
 </p>
 </div>
